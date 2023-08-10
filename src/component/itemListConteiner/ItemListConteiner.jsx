@@ -1,5 +1,5 @@
 import { useState,useEffect } from 'react'
-import ItemListMovie from '../ItemListMovie/ItemListMovie'
+import ItemListMovie from '../itemListMovie/ItemListMovie'
 
 
 const ItemListConteiner = () => {
